@@ -3,7 +3,7 @@
 
 This is a personal project - 2D Unity game called Against the Odds.
 
-As it is against Unity's EULA to post unity assets online, this repository contains only game's source code(under Assets/Scripts) that was written by me as well as project settings files.
+To correctly open the project in Unity, downloading assets is necessary, they are not included in this repository as it is against Unity's EULA.
 
 Gameplay available online at: https://mateuszk23.itch.io/against-the-odds
 
